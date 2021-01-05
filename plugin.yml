@@ -1,0 +1,4 @@
+name: TektopiaBedrock
+main: me\theshermantanker\tekbedrock\TekMain
+version: 1
+api: 3.17.2
